@@ -68,7 +68,7 @@ The device was designed as a self-contained and portable diagnostic tool to simp
 
 ## Documentation
 
-(Documentation will be added here)
+- [User Manual](nmea-link-user-manual.pdf)
 
 ---
 
